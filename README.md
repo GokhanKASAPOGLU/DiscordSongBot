@@ -1,4 +1,4 @@
-# DiscordSongBot
+# DiscordSongBot Prototype 1
 A Discord Bot can sing youtube links
 
 # First: You need discord token
