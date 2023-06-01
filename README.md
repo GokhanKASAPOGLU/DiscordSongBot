@@ -40,3 +40,12 @@ Click new and add "C:\ffmpeg"
 #how to check 
 
 #open cmd and write ffmpeg
+
+# How to use
+
+play https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+leave
+
+that's it
+
