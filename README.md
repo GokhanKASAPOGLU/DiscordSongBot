@@ -12,9 +12,12 @@ https://discord.com/developers/applications
 4 Copy your TOKEN
 #you need to paste inside code
 
-5 Go to OAuth2 URL Generator
+# Add Your Discord Server
+
+  Go to OAuth2 URL Generator
   Select "Bot"
   Copy link and paste your browser
+  
 
 # Secondly: Necessary for the bot to run
 1 Downland this
