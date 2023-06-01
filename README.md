@@ -52,8 +52,6 @@ Click new and add "C:\ffmpeg"
   
   PyNaCl
   
-  youtube_dl
-  
   pytube
   
 # How to use
