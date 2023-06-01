@@ -15,7 +15,9 @@ https://discord.com/developers/applications
 # Add Your Discord Server
 
   Go to OAuth2 URL Generator
+  
   Select "Bot"
+  
   Copy link and paste your browser
   
 
