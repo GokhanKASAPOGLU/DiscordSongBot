@@ -46,6 +46,16 @@ Click new and add "C:\ffmpeg"
 
 #open cmd and write ffmpeg
 
+# The Required Libraries
+  
+  discord
+  
+  PyNaCl
+  
+  youtube_dl
+  
+  pytube
+  
 # How to use
 
 play https://www.youtube.com/watch?v=dQw4w9WgXcQ
