@@ -49,11 +49,11 @@ Click new and add "C:\ffmpeg"
 # The Required Libraries
   
   discord
-  
+  pip install discord
   PyNaCl
-  
+  pip install PyNaCl
   pytube
-  
+  pip install pytube
 # How to use
 
 play https://www.youtube.com/watch?v=dQw4w9WgXcQ
