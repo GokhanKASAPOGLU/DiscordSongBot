@@ -26,6 +26,7 @@ Example: "C:\ffmpeg"
 3 Move your downloaded files into 
 
 4 Add "C:\ffmpeg" to path #examle: C:\ffmpeg
+
 #How to do 4
 
 Open edit the system environment variables
