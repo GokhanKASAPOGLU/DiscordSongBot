@@ -1,7 +1,7 @@
 # DiscordSongBot Prototype 1
 A Discord Bot can sing youtube links
 
-# First: You need discord token
+# You need discord token
 1 Go to this site
 https://discord.com/developers/applications
 
@@ -21,7 +21,7 @@ https://discord.com/developers/applications
   Copy link and paste your browser
   
 
-# Secondly: Necessary for the bot to run
+# Necessary for the bot to run
 1 Downland this
 https://ffmpeg.org/download.html#releases
 
