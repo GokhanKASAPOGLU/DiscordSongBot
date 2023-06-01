@@ -48,15 +48,15 @@ Click new and add "C:\ffmpeg"
 
 # The Required Libraries
   
-  discord
+  #discord
   
   pip install discord
   
-  PyNaCl
+  #PyNaCl
   
   pip install PyNaCl
   
-  pytube
+  #pytube
   
   pip install pytube
   
