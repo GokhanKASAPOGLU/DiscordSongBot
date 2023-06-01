@@ -62,9 +62,9 @@ Click new and add "C:\ffmpeg"
   
 # How to use
 
-play https://www.youtube.com/watch?v=dQw4w9WgXcQ
+-play https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-leave
+-leave
 
 #That's it
 
