@@ -7,7 +7,7 @@ https://discord.com/developers/applications
 
 2 Open a bot
 
-3  set the privileged gateway intents settings on
+3 Set the privileged gateway intents settings on
 
 4 Copy your TOKEN
 #you need to paste inside code
