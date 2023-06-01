@@ -13,12 +13,12 @@ bot = commands.Bot(command_prefix='', intents=intents)
 
 @bot.event
 async def on_ready():
-    print(f'Bot {bot.user.name} olarak giriş yaptı.')
+    print(f'Bot {bot.user.name} entered.')
 
 @bot.command()
 async def play(ctx, url):
     if ctx.author.voice is None or ctx.author.voice.channel is None:
-        await ctx.send('Önce bir sesli kanala katılmanız gerekiyor.')
+        await ctx.send('First you need to join a voice channel.')
         return
 
     voice_channel = ctx.author.voice.channel
@@ -35,13 +35,13 @@ async def play(ctx, url):
         source = await discord.FFmpegOpusAudio.from_probe(video.url)
         voice_client.play(source)
     except Exception as e:
-        await ctx.send(f'Hata oluştu: {str(e)}')
+        await ctx.send(f'Error: {str(e)}')
 
 @bot.command()
 async def leave(ctx):
     voice_client = ctx.voice_client
     if voice_client and voice_client.is_connected():
         await voice_client.disconnect()
-        await ctx.send('Sesli kanaldan ayrıldım.')
+        await ctx.send('Leaving voice channel.')
 
 bot.run(TOKEN)
