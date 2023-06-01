@@ -27,9 +27,15 @@ Example: "C:\ffmpeg"
 
 4 Add "C:\ffmpeg" to path #examle: C:\ffmpeg
 #How to do 4
+
 Open edit the system environment variables
+
 Click environment variables
+
 Click path and edit
+
 Click new and add "C:\ffmpeg"
+
 #how to check 
+
 #open cmd and write ffmpeg
