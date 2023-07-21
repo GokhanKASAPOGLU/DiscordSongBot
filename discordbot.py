@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from pytube import YouTube
 
-#FİRST ENTER YOUR DİSCORD TOKEN
+#FIRST ENTER YOUR DİSCORD TOKEN
 TOKEN = 'TOKEN'
 
 intents = discord.Intents.default()
