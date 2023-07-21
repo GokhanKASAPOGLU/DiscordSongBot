@@ -30,7 +30,7 @@ Example: "C:\ffmpeg"
 
 3 Move your downloaded files into 
 
-4 Add "C:\ffmpeg" to path #examle: C:\ffmpeg
+4 Add "C:\ffmpeg" to path
 
 #How to do 4
 
