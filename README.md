@@ -23,7 +23,7 @@ https://discord.com/developers/applications
 
 # Necessary for the bot to run
 1 Downland this
-https://ffmpeg.org/download.html#releases
+https://ffmpeg.org/
 
 2 Creat a new folder in C:
 Example: "C:\ffmpeg"
